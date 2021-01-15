@@ -1,0 +1,2 @@
+# tradegame
+Página de Emi
